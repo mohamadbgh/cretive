@@ -1,0 +1,275 @@
+@font-face {
+    font-family: sans1;
+    src: url(MerriweatherSans-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: sans2;
+    src: url(MerriweatherSans-Medium.ttf);
+}
+
+
+@font-face {
+    font-family: sans3;
+    src: url(MerriweatherSans-Regular.ttf);
+}
+
+
+.bg-hed{
+    background-image: -moz-linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url(bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 40.5rem;
+    
+}
+
+
+.start{
+    margin-top: 5.5rem;
+}
+
+.start h1{
+    font-family: sans2;
+    font-size: 3.5rem;
+    width: 46%;
+    color: white;
+    text-align: center;
+}
+
+.start p{
+    font-size: 1.25rem;
+    color: rgb(211, 211, 211);
+    font-family: sans3;
+    width: 49%;
+    text-align: center;
+    /* margin-top: 2rem; */
+}
+
+.start button{
+    
+    background-color: #f4623a;
+    color: white;
+    width: 11rem;
+    height: 4rem;
+    border: 1px solid #f4623a;
+    border-radius: 100px;
+    font-family: sans2;
+    font-size: 0.85rem;
+
+}
+
+.start button:hover{
+    background-color: #dd5934;
+}
+.nav-a{
+    padding-left: 8rem;
+    padding-top: 2rem;
+    padding-right: 8rem;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.Start-Bootstrap{
+    font-family: sans1;
+    font-size: 1.25rem;
+    
+}
+
+.link-top{
+    font-family: sans2;
+    font-size: 0.9rem;
+}
+
+
+.we{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+
+.we h1{
+    font-family: sans2;
+    color: white;
+    font-size: 2rem;
+    
+}
+
+
+.got-what{
+    background-color: #f4623a;
+    width: 100%;
+    height: 28rem;
+    text-align: center;
+}
+
+.we h2{
+    width: 50%;
+    /* font-family: sans2; */
+    font-size: 1.1rem;
+    color: rgba(255, 255, 255, 0.75) ;
+}
+
+.we button{
+    background-color: #f8f9fa;
+    color: black;
+    width: 11rem;
+    height: 4rem;
+    border: 1px solid #f8f9fa;
+    border-radius: 100px;
+    font-family: sans2;
+    font-size: 0.85rem;
+
+}
+
+.divider{
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: #f4623a;
+    opacity: 1;
+}
+
+.At-Your{
+    font-family: sans2;
+    color:black;
+    font-size: 2rem;
+}
+.fa-light{
+    color: #f4623a;
+    font-size: 2.5rem;
+}
+
+.Sturdy{
+    font-family: sans2;
+    font-size: 1.5rem;
+
+}
+
+.capshen{
+    color: #6c757d ;
+    text-align: center;
+    font-size: 1.1rem;
+    /* width: 64%; */
+}
+
+.capshen-1{
+    color: #6c757d ;
+    text-align: center;
+    font-size: 1.1rem;
+    
+}
+
+.matn-1{
+    width: 18%;
+}
+
+.matn-2{
+    width: 16%;
+}
+
+.aks img{
+    width: 33.33%;
+
+}
+
+.Free-Download{
+    width: 100%;
+    height: 22rem;
+    background-color: #212529; 
+    color: white;
+}
+
+.Free-Download p{
+    font-family: sans2;
+    color:white;
+    font-size: 2rem;
+}
+
+.Free-Download button{
+    background-color: #f8f9fa;
+    color: black;
+    width: 12rem;
+    height: 3.5rem;
+    border: 1px solid #f8f9fa;
+    border-radius: 100px;
+    font-family: sans2;
+    font-size: 0.85rem;
+}
+
+.Let-s{
+    font-family: sans2;
+    color:black;
+    font-size: 2rem;
+
+}
+
+
+.Ready-to{
+    width: 37%;
+}
+
+.Ready-to p{
+    text-align: center;
+    font-size: 1.1rem;
+    color: #6c757d;
+    
+}
+
+.inp-11{
+    width: 162%;
+    height: 3rem;
+    border: 1px solid  #bdbdbd;
+    border-radius: 3px;
+    color: black;
+    opacity: 1;
+    font-size: 1rem;
+}
+
+.inp-12{
+    width: 162%;
+    height: 10rem;
+    border: 1px solid  #bdbdbd;
+    border-radius: 3px;
+    color: black;
+    opacity: 1;
+    font-size: 1rem;
+}
+
+.but-1{
+    background-color: #f4623a;
+    color: white;
+    width: 31rem;
+    height: 3.6rem;
+    border: 1px solid #f4623a;
+    border-radius: 100px;
+    font-family: sans2;
+    font-size: 0.85rem;
+    margin-top: 1.1rem;
+    opacity: 0.8;
+}
+
+.fa-thin{
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+.nimberr{
+    margin-bottom: 10rem;
+}
+
+.akhar{ 
+    padding-top: 2rem;
+    color: #6c757d;
+    height: 6rem;
+    background-color: #f2f2f2;;
+}
+
+.link-top p:hover{
+    cursor: pointer;
+    color: #f2f2f2;
+}
+
+.Start-Bootstrap:hover{
+    cursor: pointer;
+    color: #f2f2f2;
+}
